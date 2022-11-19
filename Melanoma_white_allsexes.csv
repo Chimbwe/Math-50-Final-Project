@@ -1,0 +1,61 @@
+County, FIPS,"Age-Adjusted Incidence Rate([rate note]) - cases per 100,000",Lower 95% Confidence Interval,Upper 95% Confidence Interval,CI*Rank([rank note]),Lower CI (CI*Rank),Upper CI (CI*Rank),Average Annual Count,Recent Trend,Recent 5-Year Trend ([trend note]) in Incidence Rates,Lower 95% Confidence Interval,Upper 95% Confidence Interval
+California(7),6000,38.4,38,38.8,N/A ,5,8,8348,rising,1.6,1.2,1.9
+US (SEER+NPCR) &sect; (1),0,29.8,29.7,29.9,N/A , N/A , N/A,78783,stable,0.1,-2.1,2.4
+Marin County(7),6041,66,61.6,70.8,1,1,2,204,rising,2.9,1.9,3.9
+San Mateo County(7),6081,53.7,50.5,57,2,2,5,243,rising,4.1,3.6,4.5
+Santa Cruz County(7),6087,52.1,47.7,56.8,3,2,10,121,rising,4.6,3,6.3
+Sonoma County(7),6097,51,48,54.2,4,2,8,263,stable,-5.5,-14.5,4.6
+Orange County(7),6059,48.3,46.8,49.8,5,3,9,925,rising,1.7,1.1,2.4
+Santa Clara County(7),6085,46.6,44.5,48.7,6,4,12,419,rising,3.7,2.9,4.4
+San Luis Obispo County(7),6079,46.4,42.8,50.4,7,3,15,145,rising,2.8,0.9,4.8
+Contra Costa County(7),6013,46.3,44,48.6,8,4,13,353,stable,-2.2,-7.2,3.1
+Napa County(7),6055,45.1,39.5,51.5,9,2,21,56,stable,0.7,-2.6,4.1
+Placer County(7),6061,43.8,40.9,47,10,5,17,181,rising,1.9,0.6,3.3
+San Diego County(7),6073,42.9,41.6,44.2,11,8,16,909,rising,2,1.2,2.9
+Alameda County(7),6001,42.5,40.4,44.8,12,8,18,318,rising,3.5,3,4
+San Francisco County(7),6075,41.9,39.1,44.8,13,7,19,183,stable,0.6,-1,2.2
+Inyo County(7),6027,41.9,29.1,59.9,14,1,48,9,stable,4.2,-0.1,8.7
+Riverside County(7),6065,40.3,38.7,42,15,11,20,563,rising,1.7,0.9,2.4
+El Dorado County(7),6017,40,36.2,44.2,16,7,27,97,rising,1.7,0.1,3.2
+Monterey County(7),6053,37.9,34.1,42.2,17,10,31,87,rising,3.2,1.9,4.6
+Amador County(7),6005,37.2,29,47.3,18,3,46,20,rising,3.2,1,5.4
+Sacramento County(7),6067,36.6,34.8,38.5,19,15,28,348,stable,-1.2,-6.5,4.5
+Santa Barbara County(7),6083,36.1,32.8,39.7,20,14,33,108,falling,-2.9,-5.4,-0.4
+Solano County(7),6095,35.9,32.4,39.6,21,13,35,91,rising,3,1.3,4.7
+Nevada County(7),6057,35.1,30.4,40.3,22,12,40,53,rising,2.4,1.1,3.7
+Humboldt County(7),6023,34.1,29.6,39,23,14,43,48,stable,0.9,-1.2,3
+Ventura County(7),6111,34,31.8,36.3,24,17,36,203,falling,-5.9,-9.1,-2.6
+San Joaquin County(7),6077,33.8,31,36.8,25,17,37,121,rising,4,3.1,4.9
+Madera County(7),6039,33.8,28.3,40.2,26,11,45,32,stable,1.6,-0.4,3.6
+Shasta County(7),6089,33.6,29.9,37.7,27,16,41,69,falling,-8.2,-14.8,-1.1
+Tehama County(7),6103,33.2,26.9,40.7,28,10,47,23,stable,2.4,-0.4,5.3
+San Benito County(7),6069,33,24.3,44.3,29,5,52,10,stable,2.4,-0.2,5
+Butte County(7),6007,32.2,28.8,35.9,30,18,43,78,rising,3.5,1.7,5.4
+Yolo County(7),6113,31.7,27.2,36.7,31,17,45,40,falling,-6.7,-12.8,-0.2
+Kern County(7),6029,30.9,28.4,33.6,32,23,43,127,rising,4,1.2,6.8
+Yuba County(7),6115,30.2,23.5,38.3,33,12,52,15,rising,4,1.2,6.8
+Mendocino County(7),6045,30.1,24.9,36.2,34,17,49,30,stable,0.5,-1.3,2.3
+San Bernardino County(7),6071,30,28.3,31.7,35,27,43,263,stable,0.7,0,1.5
+Del Norte County(7),6015,29.9,21.4,41.4,36,9,54,9,stable,0.5,-2.9,4.1
+Mono County(7),6051,29.7,17.4,49,37,2,54,4,*,*,*,*
+Los Angeles County(7),6037,29.3,28.5,30.1,38,31,43,1158,stable,-0.6,-1.2,0
+Fresno County(7),6019,29.1,26.7,31.6,39,27,46,126,rising,2,1,3
+Stanislaus County(7),6099,27.9,25.2,30.8,40,29,48,88,rising,2,0.8,3.3
+Mariposa County(7),6043,27.2,17.9,40.8,41,8,54,7,stable,0.3,-2.6,3.2
+Plumas County(7),6063,26.5,18.5,38.1,42,14,54,9,stable,2.3,-1.2,5.9
+Tuolumne County(7),6109,26.1,20.3,33.3,43,20,53,18,stable,0.1,-2.2,2.4
+Trinity County(7),6105,26,15.7,42,44,8,54,5,stable,-16.2,-35.3,8.7
+Merced County(7),6047,25.8,21.4,30.8,45,27,52,28,rising,1.7,0.2,3.2
+Glenn County(7),6021,25.5,15.6,39.6,46,10,54,5,stable,3.5,-0.6,7.8
+Tulare County(7),6107,23.9,20.7,27.4,47,37,53,47,stable,0.3,-0.9,1.6
+Calaveras County(7),6009,23.7,17.9,31.2,48,25,54,16,stable,2.6,-1.1,6.5
+Sutter County(7),6101,23.2,18,29.7,49,30,54,15,stable,0.6,-2.1,3.3
+Lake County(7),6033,22.5,17.7,28.5,50,32,54,19,falling,-5.1,-8.3,-1.9
+Kings County(7),6031,20.9,16,27,51,36,54,13,stable,1.3,-1.5,4.1
+Siskiyou County(7),6093,19.9,14.4,27.2,52,35,54,12,falling,-2.9,-5,-0.7
+Lassen County(7),6035,19.6,12.8,29.2,53,30,54,6,rising,3.1,0.7,5.5
+Imperial County(7),6025,16.6,10.9,25,54,41,54,6,stable,-1,-4.7,2.8
+Alpine County(7),6003,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Colusa County(7),6011,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Modoc County(7),6049,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Sierra County(7),6091,* ,*, *,* , * , *,3 or fewer,*,*,*,*
