@@ -1,0 +1,61 @@
+County, FIPS,"Age-Adjusted Incidence Rate([rate note]) - cases per 100,000",Lower 95% Confidence Interval,Upper 95% Confidence Interval,CI*Rank([rank note]),Lower CI (CI*Rank),Upper CI (CI*Rank),Average Annual Count,Recent Trend,Recent 5-Year Trend ([trend note]) in Incidence Rates,Lower 95% Confidence Interval,Upper 95% Confidence Interval
+California(7),6000,4.9,4.7,5.1,N/A ,15,26,552,stable,0.6,0,1.1
+US (SEER+NPCR) &sect; (1),0,4.7,4.6,4.8,N/A , N/A , N/A,1954,stable,-2,-4.8,0.8
+San Luis Obispo County(7),6079,18.6,12.8,25.9,1,1,4,7,rising,36.2,1.1,83.4
+El Dorado County(7),6017,15.9,9,25.9,2,1,15,3,*,*,*,*
+Placer County(7),6061,11.3,7.2,16.8,3,1,17,5,*,*,*,*
+Santa Cruz County(7),6087,10,6.7,14.4,4,2,18,6,*,*,*,*
+Sonoma County(7),6097,9.2,6.4,12.6,5,2,17,8,stable,4.2,-0.8,9.5
+Contra Costa County(7),6013,8.7,6.9,10.8,6,3,13,18,stable,1.9,-0.4,4.2
+Yolo County(7),6113,8.3,4.9,13,7,2,28,4,*,*,*,*
+San Mateo County(7),6081,7,5.2,9.2,8,4,22,11,*,*,*,*
+Solano County(7),6095,6.9,4.6,10,9,3,27,6,*,*,*,*
+Santa Clara County(7),6085,6.7,5.5,8,10,5,19,25,rising,2,0.1,4
+Sacramento County(7),6067,6.4,5,8.1,11,5,22,16,rising,3.7,0.4,7.2
+Orange County(7),6059,6.3,5.5,7.3,12,6,18,48,stable,-0.1,-2,1.8
+Stanislaus County(7),6099,6,4.4,7.9,13,5,26,10,*,*,*,*
+San Francisco County(7),6075,5.9,4,8.3,14,5,29,7,*,*,*,*
+San Diego County(7),6073,5.8,5,6.6,15,8,21,46,stable,0.1,-1.7,2
+Alameda County(7),6001,5.5,4.3,7,16,7,26,15,stable,0.2,-1.4,1.7
+Monterey County(7),6053,5.4,3.9,7.3,17,7,28,9,stable,0.2,-3.8,4.2
+Ventura County(7),6111,5.2,4,6.6,18,8,27,14,stable,-0.7,-3.8,2.5
+Madera County(7),6039,4.8,2.7,7.9,19,6,29,3,*,*,*,*
+Kern County(7),6029,4.7,3.6,6,20,11,29,15,stable,2.9,-0.9,6.9
+Riverside County(7),6065,4.7,4,5.4,21,14,27,38,stable,0.5,-1.2,2.3
+San Joaquin County(7),6077,4.5,3.2,6,22,10,29,9,stable,0,-2.8,2.9
+Santa Barbara County(7),6083,4.4,3,6.3,23,9,29,6,stable,-1.9,-4.9,1.2
+Fresno County(7),6019,4,3.1,5.1,24,15,29,14,stable,1.9,-1.1,5
+San Bernardino County(7),6071,3.9,3.3,4.6,25,18,29,31,falling,-1.8,-3.4,-0.3
+Merced County(7),6047,3.7,2.3,5.7,26,11,29,4,*,*,*,*
+Los Angeles County(7),6037,3.6,3.4,3.9,27,22,29,139,stable,-0.5,-1.2,0.2
+Imperial County(7),6025,3.4,2.1,5,28,15,29,5,stable,-3.2,-6.4,0.2
+Tulare County(7),6107,3.3,2.3,4.6,29,18,29,7,stable,1.3,-1.5,4.3
+Alpine County(7),6003,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Amador County(7),6005,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Butte County(7),6007,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Calaveras County(7),6009,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Colusa County(7),6011,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Del Norte County(7),6015,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Glenn County(7),6021,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Humboldt County(7),6023,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Inyo County(7),6027,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Kings County(7),6031,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Lake County(7),6033,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Lassen County(7),6035,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Marin County(7),6041,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Mariposa County(7),6043,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Mendocino County(7),6045,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Modoc County(7),6049,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Mono County(7),6051,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Napa County(7),6055,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Nevada County(7),6057,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Plumas County(7),6063,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+San Benito County(7),6069,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Shasta County(7),6089,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Sierra County(7),6091,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Siskiyou County(7),6093,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Sutter County(7),6101,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Tehama County(7),6103,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Trinity County(7),6105,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Tuolumne County(7),6109,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Yuba County(7),6115,* ,*, *,* , * , *,3 or fewer,*,*,*,*
